@@ -1,0 +1,14 @@
+C:\Users\Kristiyan\source\repos\WorkAndTravelAgency\WorkAndTravelAgency.Infrastructure\bin\Debug\net6.0\WorkAndTravelAgency.Infrastructure.deps.json
+C:\Users\Kristiyan\source\repos\WorkAndTravelAgency\WorkAndTravelAgency.Infrastructure\bin\Debug\net6.0\WorkAndTravelAgency.Infrastructure.runtimeconfig.json
+C:\Users\Kristiyan\source\repos\WorkAndTravelAgency\WorkAndTravelAgency.Infrastructure\bin\Debug\net6.0\WorkAndTravelAgency.Infrastructure.dll
+C:\Users\Kristiyan\source\repos\WorkAndTravelAgency\WorkAndTravelAgency.Infrastructure\bin\Debug\net6.0\WorkAndTravelAgency.Infrastructure.pdb
+C:\Users\Kristiyan\source\repos\WorkAndTravelAgency\WorkAndTravelAgency.Infrastructure\obj\Debug\net6.0\WorkAndTravelAgency.Infrastructure.csproj.AssemblyReference.cache
+C:\Users\Kristiyan\source\repos\WorkAndTravelAgency\WorkAndTravelAgency.Infrastructure\obj\Debug\net6.0\WorkAndTravelAgency.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Kristiyan\source\repos\WorkAndTravelAgency\WorkAndTravelAgency.Infrastructure\obj\Debug\net6.0\WorkAndTravelAgency.Infrastructure.AssemblyInfoInputs.cache
+C:\Users\Kristiyan\source\repos\WorkAndTravelAgency\WorkAndTravelAgency.Infrastructure\obj\Debug\net6.0\WorkAndTravelAgency.Infrastructure.AssemblyInfo.cs
+C:\Users\Kristiyan\source\repos\WorkAndTravelAgency\WorkAndTravelAgency.Infrastructure\obj\Debug\net6.0\WorkAndTravelAgency.Infrastructure.csproj.CoreCompileInputs.cache
+C:\Users\Kristiyan\source\repos\WorkAndTravelAgency\WorkAndTravelAgency.Infrastructure\obj\Debug\net6.0\WorkAndTravelAgency.Infrastructure.dll
+C:\Users\Kristiyan\source\repos\WorkAndTravelAgency\WorkAndTravelAgency.Infrastructure\obj\Debug\net6.0\refint\WorkAndTravelAgency.Infrastructure.dll
+C:\Users\Kristiyan\source\repos\WorkAndTravelAgency\WorkAndTravelAgency.Infrastructure\obj\Debug\net6.0\WorkAndTravelAgency.Infrastructure.pdb
+C:\Users\Kristiyan\source\repos\WorkAndTravelAgency\WorkAndTravelAgency.Infrastructure\obj\Debug\net6.0\WorkAndTravelAgency.Infrastructure.genruntimeconfig.cache
+C:\Users\Kristiyan\source\repos\WorkAndTravelAgency\WorkAndTravelAgency.Infrastructure\obj\Debug\net6.0\ref\WorkAndTravelAgency.Infrastructure.dll

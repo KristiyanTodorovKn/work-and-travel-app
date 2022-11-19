@@ -1,0 +1,15 @@
+C:\Users\Kristiyan\source\repos\WorkAndTravelAgency\WorkAndTravelAgency.Core\bin\Debug\net6.0\WorkAndTravelAgency.Core.deps.json
+C:\Users\Kristiyan\source\repos\WorkAndTravelAgency\WorkAndTravelAgency.Core\bin\Debug\net6.0\WorkAndTravelAgency.Core.dll
+C:\Users\Kristiyan\source\repos\WorkAndTravelAgency\WorkAndTravelAgency.Core\bin\Debug\net6.0\WorkAndTravelAgency.Core.pdb
+C:\Users\Kristiyan\source\repos\WorkAndTravelAgency\WorkAndTravelAgency.Core\bin\Debug\net6.0\WorkAndTravelAgency.Infrastructure.dll
+C:\Users\Kristiyan\source\repos\WorkAndTravelAgency\WorkAndTravelAgency.Core\bin\Debug\net6.0\WorkAndTravelAgency.Infrastructure.pdb
+C:\Users\Kristiyan\source\repos\WorkAndTravelAgency\WorkAndTravelAgency.Core\obj\Debug\net6.0\WorkAndTravelAgency.Core.csproj.AssemblyReference.cache
+C:\Users\Kristiyan\source\repos\WorkAndTravelAgency\WorkAndTravelAgency.Core\obj\Debug\net6.0\WorkAndTravelAgency.Core.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Kristiyan\source\repos\WorkAndTravelAgency\WorkAndTravelAgency.Core\obj\Debug\net6.0\WorkAndTravelAgency.Core.AssemblyInfoInputs.cache
+C:\Users\Kristiyan\source\repos\WorkAndTravelAgency\WorkAndTravelAgency.Core\obj\Debug\net6.0\WorkAndTravelAgency.Core.AssemblyInfo.cs
+C:\Users\Kristiyan\source\repos\WorkAndTravelAgency\WorkAndTravelAgency.Core\obj\Debug\net6.0\WorkAndTravelAgency.Core.csproj.CoreCompileInputs.cache
+C:\Users\Kristiyan\source\repos\WorkAndTravelAgency\WorkAndTravelAgency.Core\obj\Debug\net6.0\WorkAndTravelAgency.Core.csproj.CopyComplete
+C:\Users\Kristiyan\source\repos\WorkAndTravelAgency\WorkAndTravelAgency.Core\obj\Debug\net6.0\WorkAndTravelAgency.Core.dll
+C:\Users\Kristiyan\source\repos\WorkAndTravelAgency\WorkAndTravelAgency.Core\obj\Debug\net6.0\refint\WorkAndTravelAgency.Core.dll
+C:\Users\Kristiyan\source\repos\WorkAndTravelAgency\WorkAndTravelAgency.Core\obj\Debug\net6.0\WorkAndTravelAgency.Core.pdb
+C:\Users\Kristiyan\source\repos\WorkAndTravelAgency\WorkAndTravelAgency.Core\obj\Debug\net6.0\ref\WorkAndTravelAgency.Core.dll
