@@ -7,7 +7,7 @@ namespace WorkAndTravelAgency.Infrastructure.Data
 {
     public class JobType
     {
-
+        
         [Key]
         public int Id { get; set; }
 
