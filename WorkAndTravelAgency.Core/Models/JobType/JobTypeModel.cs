@@ -17,6 +17,6 @@ namespace WorkAndTravelAgency.Core.Models.JobType
         [Display(Name = "Agent")]
         public int AgentId { get; set; }
 
-        public AgentModel Agent { get; set; } = null!;
+        public BecomeAgentModel Agent { get; set; } = null!;
     }
 }

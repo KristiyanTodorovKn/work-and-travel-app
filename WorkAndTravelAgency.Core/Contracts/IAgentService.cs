@@ -6,13 +6,13 @@ using System.Threading.Tasks;
 
 namespace WorkAndTravelAgency.Core.Contracts
 {
-    public interface IAgent
+    public interface IAgentService
     {
         Task<bool> ExistsById(string userId);
 
         Task<bool> UserWithPhoneNumberExists(string phoneNumber);
 
-        Task Create(string userId, string phoneNumber, string firstName, string lastName, string imageUrl);
+        Task Create(string userId, string phoneNumber, string firstName, string lastName);
 
         Task<int> GetAgentId(string userId);
     }

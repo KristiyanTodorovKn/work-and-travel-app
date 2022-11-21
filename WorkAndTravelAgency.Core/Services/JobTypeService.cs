@@ -6,7 +6,7 @@ using WorkAndTravelAgency.Infrastructure.Data.Common;
 
 namespace WorkAndTravelAgency.Core.Services
 {
-    public class JobTypeService : IJobType
+    public class JobTypeService : IJobTypeService
     {
         private readonly IRepository repo;
 
@@ -35,9 +35,9 @@ namespace WorkAndTravelAgency.Core.Services
                .AnyAsync(jt => jt.Id == jobTypeId);
         }
 
-        public async Task<IEnumerable<JobTypeModel>> LastThreeJobs()
+        public async Task<IEnumerable<JobTypeHomeModel>> LastThreeJobs()
         {
-            return await repo.AllReadonly<JobType>()
+            return await repo.All<JobType>()
                 .OrderByDescending(j => j.Id)
                 .Select(j => new JobTypeHomeModel()
                 {

@@ -10,4 +10,9 @@
     <ProjectReference Include="..\WorkAndTravelAgency.Infrastructure\WorkAndTravelAgency.Infrastructure.csproj" />
   </ItemGroup>
 
+  <ItemGroup>
+    <Folder Include="Models\Employer\" />
+    <Folder Include="Models\Journey\" />
+  </ItemGroup>
+
 </Project>

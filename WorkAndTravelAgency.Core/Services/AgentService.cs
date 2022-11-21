@@ -5,7 +5,7 @@ using WorkAndTravelAgency.Infrastructure.Data.Common;
 
 namespace WorkAndTravelAgency.Core.Services
 {
-    internal class AgentService : IAgent
+    public class AgentService : IAgentService
     {
         private readonly IRepository repo;
 
@@ -14,13 +14,12 @@ namespace WorkAndTravelAgency.Core.Services
             repo = _repo;
         }
 
-        public async Task Create(string userId, string phoneNumber, string firstName, string lastName, string imageUrl)
+        public async Task Create(string userId, string phoneNumber, string firstName, string lastName)
         {
             var agent = new Agent()
             {
                 FirstName = firstName,
                 LastName = lastName,
-                ImageUrl = imageUrl,
                 UserId = userId,
                 Phone = phoneNumber
             };
